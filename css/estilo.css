@@ -34,6 +34,9 @@ figure{
 	text-align: center;
 
 }
+iframe{
+	text-align: center;
+}
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -49,3 +52,4 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
